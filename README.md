@@ -44,6 +44,5 @@ Check the other README files in each folder to see more detailed instructions on
 *****
 
 ### References
-[1] Branco, P. and Torgo, L. and Ribeiro, R.P. (2018) *"MetaUtil: Meta Learning for Utility Maximization in Regression"* submitted to the UDM2018: 1st International Workshop on Utility-Driven Mining
-Held in conjunction with the 24th ACM SIGKDD Conference (KDD 2018). (**submitted**)
+[1] Branco, P. and Torgo, L. and Ribeiro, R.P. (2018) *"MetaUtil: Meta Learning for Utility Maximization in Regression"* submitted to DS 2018: the 21st International Conference on Discovery Science. (**submitted**)
 
