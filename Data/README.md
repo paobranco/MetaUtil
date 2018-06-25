@@ -22,9 +22,9 @@ A brief description of the main characteristics of data sets used is presented i
 | boston     | 506  | 13    | 0     | 13    | 65    | 12.8  |
 | a2         | 198  | 11    | 3     | 8     | 22    | 11.1  |
 | a5         | 198  | 11    | 3     | 8     | 21    | 10.6  |
-| fuelCons   | 1764 | 38    | 12    | 26    | 164   | 9.3  |
-| bank8FM    | 4499 | 9     | 0     | 9     | 288   | 6.4  |
-| Accel      | 1732 | 15    | 3     | 12    | 89    | 5.1  |
+| fuelCons   | 1764 | 37    | 12    | 25    | 164   | 9.3  |
+| bank8FM    | 4499 | 8     | 0     | 8      | 288   | 6.4  |
+| Accel      | 1732 | 14    | 3     | 11    | 89    | 5.1  |
 | airfoild   | 1503 | 5     | 0     | 5     | 62    | 4.1  |
 
 $N$: Nr of cases; 
